@@ -1,7 +1,5 @@
 It turns out that changing the level of electrical voltage in the right order allows you to do many things.
 
-Currently working on some audio software for STM32F411VE MCU.
-
 <!--
 **KonradMott/KonradMott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
